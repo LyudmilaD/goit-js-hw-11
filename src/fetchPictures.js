@@ -1,5 +1,4 @@
-const API_KEY = "7652668-fcb425495cfb1d754d33171ff"
-
+const API_KEY = "26271161-5c654091ec9de5920dedab58e"
 
 export default class NewsApiService {
     constructor() {

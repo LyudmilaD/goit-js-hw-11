@@ -4,7 +4,7 @@ import articlesTpl from './partials/articles.hbs';
 import Notiflix from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
-import NewsApiService from './ fetchPictures';
+import NewsApiService from './fetchPictures';
 
 const newsApiService = new NewsApiService();
 
